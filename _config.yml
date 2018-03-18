@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: life beyond labels
+title: seek perspective, not perfection
 email: monica.wojciechowski@gmail.com
 description: Seeing beauty in the adventure, the challenge, and the everyday in-between.
 baseurl: "/" # the subpath of your site, e.g. /blog
