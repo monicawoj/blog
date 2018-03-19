@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: seek perspective, not perfection
 email: monica.wojciechowski@gmail.com
-description: Seeing beauty in the adventure, the challenge, and the everyday in-between.
+description: you are loved because you are, not because you are someone
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://fineuntitled.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  monicawoj
