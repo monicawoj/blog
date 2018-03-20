@@ -32,7 +32,7 @@ In order to keep myself accountable to share this adventure with you all, and to
 If I get it to work right, I'm planning on sending future updates every month or so through the blog, but if they ever get annoying, feel free to unsubscribe. Having worked in Marketing for the past year and a half, I know what email mailboxes can look like these days.. :) 
 
 ### BUT, to entice you all to not do that (at least not yet,) here's a quick preview of what I'd really love to share with you:
-* Life with my 94-year-old roommate
+* Lessons from my 94-year-old roommate
 * A little bit about my first night in Poland
 	* actually already written the night of.. Preview: change is hard (especially when it involved moving to a new country)
 * What coding can teach us about good communication
