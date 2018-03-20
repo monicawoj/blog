@@ -10,9 +10,9 @@ image:
   caption: "Warszawa, Polska"
 ---
 
-My dear friends,
+#### My dear friends,
 
-I hope this note finds you well!
+#### I hope this note finds you well!
 
 ### I've been **in Poland for over a month** now...
 ...but it still feels like I flew in just yesterday. That's the best kind of feeling. As someone who loves learning (and Poland) moving here has really been a treasure for me. Everything - from talking to the cashier at the grocery store, to reading an ad on the street, to walking down Aleja Jana Pawła on my way to school - is new and exciting. But I realize those things are probably a little less exciting for you all to read about, so I'll save those thrillers for another time. Instead, since a few of you have asked, I figured I'd share a little more of **the "why" behind the what**.
@@ -20,9 +20,9 @@ I hope this note finds you well!
 ### Something that you might not get from photos or Facebook:
 * For some, it's a difficult decision to leave a job, (for some it's an even more difficult decision to stay) but in the end, I truly believe it's a combination of being **proactive and patient** that pays off. I truly value my time at my previous company, APT. You only get one first job, and I couldn't be more grateful for the people I could share that experience with. However, as an engineer at heart, I had long itched for something a little more technical, than my previous position.
 * Over the past few years, I have been working on data visualization development on and off - in visualization, as in life, I really enjoy the **challenge of seeing things from a different, simpler perspective**.
-* In the hopes of transforming a bit more of the frustration I felt when programming into fun, I decided it was time to learn the fundamentals - a coding bootcamp, a way to "test & learn" whether a 9-5 programming lifestyle was right for me, presented a compelling option
+* In the hopes of transforming a bit more of the frustration I felt when programming into fun, I decided it was **time to learn the fundamentals**. A coding bootcamp - a way to "test & learn" whether a 9-5 programming lifestyle was right for me - presented a compelling option.
 * And while I was in the spirit of trialing a different career path, my mind immediately went to something else I've always been talking about trialing: life in Poland
-* When I was accepted to Coders Lab in Warsaw, it was a clear decision: intensive coding bootcamp in all the languages I was looking for: HTML, CSS, JavaScript, and *Polish*. To top it all off, my ever-inspiring, 94-year-old Uncle Wujek offered for me to live with him. A 20 minute walk from school. The stars aligned.
+* When I was accepted to Coders Lab in Warsaw, it was a clear decision: intensive coding bootcamp in all the languages I was looking for: __HTML, CSS, JavaScript, and *Polish*__. To top it all off, my ever-inspiring, 94-year-old Uncle Wujek offered for me to live with him. A 20 minute walk from school. The stars aligned.
 
 ### And now that you have the full context, here's a little content: 
 In order to keep myself accountable to share this adventure with you all, and to test some of my skills from the first four weeks of the coding bootcamp, I decided to start a blog, "Fine Untitled." I'm thrilled that:
