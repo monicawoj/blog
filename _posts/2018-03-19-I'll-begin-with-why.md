@@ -22,7 +22,7 @@ I hope this note finds you well!
 * Over the past few years, I have been working on data visualization development on and off - in visualization, as in life, I really enjoy the **challenge of seeing things from a different, simpler perspective**.
 * In the hopes of transforming a bit more of the frustration I felt when programming into fun, I decided it was time to learn the fundamentals - a coding bootcamp, a way to "test & learn" whether a 9-5 programming lifestyle was right for me, presented a compelling option
 * And while I was in the spirit of trialing a different career path, my mind immediately went to something else I've always been talking about trialing: life in Poland
-* When I was accepted to Coders Lab in Warsaw, it was a clear decision: intensive coding bootcamp in all the languages I was looking for: HTML, CSS, JavaScript, and *Polish*. To top it all off, my ever-inspiring, 94-year-old Uncle Stefan offered for me to live with him. A 20 minute walk from school. The stars aligned.
+* When I was accepted to Coders Lab in Warsaw, it was a clear decision: intensive coding bootcamp in all the languages I was looking for: HTML, CSS, JavaScript, and *Polish*. To top it all off, my ever-inspiring, 94-year-old Uncle Wujek offered for me to live with him. A 20 minute walk from school. The stars aligned.
 
 ### And now that you have the full context, here's a little content: 
 In order to keep myself accountable to share this adventure with you all, and to test some of my skills from the first four weeks of the coding bootcamp, I decided to start a blog, "Fine Untitled." I'm thrilled that:
