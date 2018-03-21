@@ -21,7 +21,7 @@ image:
 * When I was accepted to Coders Lab in Warsaw, it was a clear decision: intensive coding bootcamp in all the languages I was looking for: __HTML, CSS, JavaScript, and *Polish*__. To top it all off, my ever-inspiring, 94-year-old Uncle Wujek offered for me to live with him. A 20 minute walk from school. The stars aligned.
 
 ## And now that you have the full context, here's a little content:
-In order to keep myself accountable to share this adventure with you all, and to test some of my skills from the first four weeks of the coding bootcamp, I decided to start a blog, "Fine Untitled." I'm thrilled that:
+In order to keep myself accountable to share this adventure with you all, and to test some of my skills from the first four weeks of the coding bootcamp, I decided to start a blog, ['Fine Untitled.'](http://www.fineuntitled.com) I'm thrilled that:
 1. I was able to put something together (don't be too impressed, a lot of coding is drawing from the work of others)
 2. It's no longer empty (this update = my first ever post!)
 
@@ -34,7 +34,7 @@ If I get it to work right, I'm planning on sending future updates every month or
 * What coding can teach us about good communication
 * Little moments of bravery
 * A year of no counting (my New Year's resolution)
-* Why title something 'Fine Untitled'?
+* Why title something ['Fine Untitled'](http://www.fineuntitled.com)?
 	* I realize it seems like a cop-out, but I promise there's a story there
 
 ## And lastly and most importantly
