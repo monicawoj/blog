@@ -10,9 +10,9 @@ image:
   caption: "Warszawa, Polska"
 ---
 
-#### My dear friends,
+## My dear friends,
 
-#### I hope this note finds you well!
+## I hope this note finds you well!
 
 ### I've been **in Poland for over a month** now...
 ...but it still feels like I flew in just yesterday. That's the best kind of feeling. As someone who loves learning (and Poland) moving here has really been a treasure for me. Everything - from talking to the cashier at the grocery store, to reading an ad on the street, to walking down Aleja Jana Pawła on my way to school - is new and exciting. But I realize those things are probably a little less exciting for you all to read about, so I'll save those thrillers for another time. Instead, since a few of you have asked, I figured I'd share a little more of **the "why" behind the what**.

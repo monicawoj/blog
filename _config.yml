@@ -13,11 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: seek perspective, not perfection
+title: Fine Untitled
+subtitle: seek perspective, not perfection
 email: monica.wojciechowski@gmail.com
 description: you are loved because you are, not because you are someone
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://fineuntitled.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://fineuntitled.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  monicawoj
 date_format: "%Y-%m-%d"
 
@@ -27,6 +28,7 @@ theme: jekyll-theme-so-simple
 #remote_theme: "mmistakes/so-simple-theme"
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 logo: "/images/fine-untitled-logo.png"
 read_time: true
 words_per_minute: 200
@@ -94,16 +96,16 @@ defaults:
 # Site Author
 author:
   name: Monica Wojciechowski
-  picture: /images/michael-rose-photo.jpg
-#  email: monica.wojciechowski@gmail.com
+#  picture: /images/michael-rose-photo.jpg
+  email: fineuntitled@gmail.com
 #  twitter: mmistakes
   links:
 #    - title: Twitter
 #      url: https://twitter.com/mmistakes
 #      icon: fab fa-twitter-square
-    - title: CV
-      url: http://monicawojciechowski.com
-      icon: fab fa-instagram
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/monicawojciechowski/
+      icon: fab fa-linkedin
     - title: GitHub
       url: https://github.com/monicawoj
       icon: fab fa-github-square
@@ -113,15 +115,15 @@ footer_links:
 #  - title: Twitter
 #    url: https://twitter.com/mmistakes
 #    icon: fab fa-twitter-square
-#  - title: Instagram
-#    url: https://instagram.com/mmistakes
-#    icon: fab fa-instagram
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/monicawojciechowski/
+    icon: fab fa-linkedin
   - title: GitHub
     url: https://github.com/monicawoj
     icon: fab fa-github-square
-#  - title: Feed
-#    url: atom.xml
-#    icon: fas fa-rss-square
+  - title: Feed
+    url: feed.xml
+    icon: fas fa-rss-square
 
 #Copyright
-copyright: "&copy; 2018. Fine Untitled."
+copyright: "&copy; 2018. Monica Wojciechowski. Fine Untitled."
