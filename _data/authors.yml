@@ -3,7 +3,6 @@
 
 monicawojciechowski:
   name: Monica Wojciechowski
-  picture: /images/bio-photo-2.jpg
   twitter: "@billyrick"
   links:
     - title: Twitter
@@ -12,5 +11,4 @@ monicawojciechowski:
 
 Cornelius Fiddlebone:
   name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
   twitter: corneliusfiddlebone
