@@ -1,16 +1,22 @@
+$blue : #0093b1;
+
 .widget-subscribe {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  width: 100%;
-  padding-bottom: 30px;
+  width: 80%;
+  margin: 0 auto;
+  border: 2px solid $blue;
   p {
     color: #000;
     font-size: 16px;
+    width: 60%;
+  }
+  p:last-of-type {
+    text-align: right;
   }
   form {
-    margin: 20px 0;
     color: #000;
     width: 100%;
     display: flex;
@@ -26,7 +32,7 @@
 .widget-footer-title {
   text-transform: uppercase;
   font-size: 14px;
-  margin-bottom: 15px;
+  margin: 20px 0;
   font-weight: 700;
 }
 
@@ -42,11 +48,13 @@
   color: #999;
   font-size: 14px;
   line-height: normal;
-  width: 65%;
+  width: 58%;
+  height: 40px;
 }
 .subscribe-button {
   text-transform: uppercase;
-  width: 25%;
+  width: 38%;
+  height: 40px;
   text-align: center;
   vertical-align: middle;
   color: #fff;
@@ -65,8 +73,19 @@
   transition: color 0.3s, background 0.3s, box-shadow 0.3s, border-color 0.3s;
 }
 .subscribe-button:hover {
-  background: #0093b1;
+  background: $blue;
   -webkit-box-shadow: 0px 3px 0px 0px #0F7183;
   -moz-box-shadow: 0px 3px 0px 0px #0F7183;
   box-shadow: 0px 3px 0px 0px #0F7183;
+}
+
+@function tab($item) {
+  @return $item*20px;
+}
+
+@for $i from 1 through 3 {
+  p:nth-of-type(#{$i}) {
+    margin: 0;
+    margin-left: tab($i)
+  }
 }

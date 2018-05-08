@@ -110,8 +110,8 @@
   }
 
   .more-link {
-    margin-top: -1em;
-
+    margin-top: 1em;
+    color: $blue;
     a {
       text-decoration: none;
     }
@@ -173,10 +173,10 @@
   }
 
   .more-link {
-    margin-top: -1em;
-
+    margin-top: 1em;
     a {
       text-decoration: none;
+      color: $blue;
     }
   }
 }
