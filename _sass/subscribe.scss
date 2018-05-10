@@ -82,7 +82,7 @@ $blue : #0093b1;
 }
 
 @for $i from 1 through 3 {
-  p:nth-of-type(#{$i}) {
+  .widget-subscribe p:nth-of-type(#{$i}) {
     margin: 0;
     margin-left: tab($i)
   }
