@@ -4,7 +4,7 @@ title:  "Weekend in the Tatra Mountains"
 date:   2018-03-25 22:21:00 +0100
 categories: Polska Travel
 author: monicawojciechowski
-link: "polska/travel/2018/03/25/Weekend-in-the-Tatras.html"
+link: "polska/travel/2018/03/25/weekend-in-the-tatras.html"
 image:
   path: /images/tatry/grzes-summit-view.JPG
   thumbnail: /images/tatry/grzes-summit-view.JPG
