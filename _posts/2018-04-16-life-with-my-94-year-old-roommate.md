@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "My 94-year-old Roommate"
-date:   2018-05-09 22:21:00 +0100
-categories: Polska Life-Lessons Family
+date:   2018-04-16 22:21:00 +0100
+categories: Polska
+link: "polska/2018/04/16/life-with-my-94-year-old-roommate.html"
 author: monicawojciechowski
 image:
   path: /images/wujek-and-monica.JPG

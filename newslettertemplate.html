@@ -1,0 +1,12 @@
+---
+layout: none
+---
+
+<!-- site logo -->
+<a href="http://www.fineuntitled.com"><img src="/images/fine-untitled-logo.png"></a>
+
+{% for post in site.posts limit:3 %}
+<h2>{{post.title}}</h2>
+<p>{{post.summary}} <a href="http://www.fineuntitled.com/{{ post.link }}">Read more &raquo;</a></p>
+
+{% endfor %}

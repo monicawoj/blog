@@ -3,6 +3,7 @@ layout: post
 title:  "I'll Start with Why"
 date:   2018-03-19 23:23:00 +0100
 categories: Polska
+link: "polska//2018/03/19/I'll-begin-with-why.html"
 author: monicawojciechowski
 image:
   path: /images/bialo-czerwo-warszawa-polska.JPG
