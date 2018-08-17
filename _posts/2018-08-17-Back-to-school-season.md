@@ -3,7 +3,7 @@ layout: post
 title:  "Back to School Season: Scuba and Seminars"
 date:   2018-08-17 23:17:00 +0100
 categories: polska
-link: "polska//2018/08/17/Back-to-school-season:-Scuba-and-Seminars.html"
+link: "polska//2018/08/17/Back-to-school-season.html"
 author: monicawojciechowski
 image:
   path: /images/banska-stiavnica.JPG
@@ -13,7 +13,7 @@ image:
 
 ### I’ve been meaning to share some reflections for quite some time now, but (as has generally been the case since my time in Poland) there’s so much to do that reflection and writing take a back seat. Or, more accurately in my case, a train seat :)
 
-This past weekend I was in Szczekociny (towards the west of Poland) attending a wedding. I’ve heard about Polish weddings for as long as I can remember, so it was incredible to finally experience one! Almost twelve hours of food, dancing, and drinks later, I can say that expectations were met. (I think I would’ve slightly tilted the food-dancing ratio towards dancing, but then again, I would always tilt the scale towards more dancing). Also included in my trip to Szczekociny was a visit to Jasna Góra in Częstochowa - home to one of the most sacred portraits of Poland’s queen - Saint Mary - in the world, an exploration of medieval ruins in Olsztyn, a bonfire, and a traditional (and super tasty) cast-iron pot potato-kielbasa concoction “pieczonki.” The amount of activities you can pack into a couple days will always astonish me. And speaking of packing activities into every day - nothing quite brought that notion to life like my recent trips to South East Asia and Slovakia. 
+This past weekend I was in Szczekociny (towards the west of Poland) attending a wedding. I’ve heard about Polish weddings for as long as I can remember, so it was incredible to finally experience one! Almost twelve hours of food, dancing, and drinks later, I can say that expectations were met. (I think I would’ve slightly tilted the food-dancing ratio towards dancing, but then again, I would always tilt the scale towards more dancing). Also included in my trip to Szczekociny was a visit to Jasna Góra in Częstochowa - home to one of the most sacred portraits of Poland’s queen - Saint Mary - in the world, an exploration of medieval ruins in Olsztyn, a bonfire, and a traditional (and super tasty) cast-iron pot potato-kielbasa concoction “pieczonki.” The amount of activities you can pack into a couple days will always astonish me. And speaking of packing activities into every day - nothing quite brought that notion to life like my recent trips to South East Asia and Slovakia.
 
 Who says you have to go back to school to “go back to school”?
 My backpack and I have covered quite some ground in the past couple of months. Among countless weekend trips within Poland, my recent trips to South East Asia and, shortly thereafter, Slovakia, were an incredible reminder of how exhilarating it is to learn. Not the type of learning where you’re sitting in a classroom and taking exams, exactly, but learning like a three-year-old - learning by curiosity, learning by living. In other words, learning to live, not living to learn.
