@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Back to School Season: Scuba and Seminars"
-date:   2018-08-17 23:17:00 +0100
+date:   2018-08-17 09:17:00 +0100
 categories: polska
 link: "polska//2018/08/17/Back-to-school-season.html"
 author: monicawojciechowski
 image:
-  path: /images/banska-stiavnica.JPG
-  thumbnail: /images/banska-stiavnica.JPG
+  path: /images/banska_stiavnica.JPG
+  thumbnail: /images/banska_stiavnica.JPG
   caption: "Banska Stiavnica, Slovakia"
 ---
 
